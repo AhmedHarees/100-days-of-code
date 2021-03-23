@@ -1,3 +1,6 @@
+The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time employee, a full time student and on top of that fullfilling family responsibilities hasn't been easy. They say third times the charm, so really hoping to pull this off this time around 🤞
+
+
 # 100 Days Of Code - Log
 
 ### Day 1: March 22, 2021
