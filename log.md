@@ -31,6 +31,11 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Thoughts:** Excited to try out Bootstrap. Seems like it will make the process so much easier and faster. Finally got to learn some web design, even though it's just wireframing. It was really interesting. Angela included really helpful resources to get design ideas, learn about UI, and designing tools.
 
 
+### Day 5: March 26, 2021
+
+**Today's Progress**: Continued Bootstrap section of the course. Learnt how to setup a project and about navigation bar in Bootstrap.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
