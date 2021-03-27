@@ -33,7 +33,12 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 
 ### Day 5: March 26, 2021
 
-**Today's Progress**: Continued Bootstrap section of the course. Learnt how to setup a project and about navigation bar in Bootstrap.
+**Today's Progress**: Continued Introduction to Bootstrap section of the course. Learnt how to setup a project and about navigation bar in Bootstrap.
+
+
+### Day 6: March 27, 2021
+
+**Today's Progress**: Continued Introduction to Bootstrap section of the course. Learnt how to use Bootstrap grid layout system.
 
 
 <!--
