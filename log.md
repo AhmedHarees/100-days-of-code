@@ -48,6 +48,13 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Thoughts:** Struggled a bit adding Google Play icon to the website as Font Awesome's website has been updated. The icon was not loading because of a version mismatch between Font Awesome's link for the icon and the CDN link.
 
 
+### Day 8: March 29, 2021
+
+**Today's Progress**: Continued Introduction to Bootstrap section of the course. Styled the TinDog website to look like the given sample without going through the solution.
+
+**Thoughts:** Google Fonts website has changed quite a bit. After playing around learned that now it's required to specify the font weight to use different font styles unlike before when it was included in the CSS rules. Also struggled to keep the image in the container after rotating the image.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
