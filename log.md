@@ -50,9 +50,16 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 
 ### Day 8: March 29, 2021
 
-**Today's Progress**: Continued Introduction to Bootstrap section of the course. Styled the TinDog website to look like the given sample without going through the solution.
+**Today's Progress**: Continued Introduction to Bootstrap section of the course. Styled the Title section of the TinDog website to look like the given sample without going through the solution.
 
 **Thoughts:** Google Fonts website has changed quite a bit. After playing around learned that now it's required to specify the font weight to use different font styles unlike before when it was included in the CSS rules. Also struggled to keep the image in the container after rotating the image.
+
+
+### Day 9: March 30, 2021
+
+**Today's Progress**: Continued Introduction to Bootstrap section of the course. After going through the solution amended the Title section and then styled the Features section of the TinDog website to look like the given sample without going through the solution.
+
+**Thoughts:** Did not have to amend the Title section too much after going through the solution. I'm considering that as progress.
 
 
 <!--
