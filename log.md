@@ -62,6 +62,13 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Thoughts:** Did not have to amend the Title section too much after going through the solution. I'm considering that as progress.
 
 
+### Day 10: March 31, 2021
+
+**Today's Progress**: Continued Introduction to Bootstrap section of the course. Continued styling the Features section of the TinDog website.
+
+**Thoughts:** Struggled to center the Font Awesome icons.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
