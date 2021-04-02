@@ -69,6 +69,16 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Thoughts:** Struggled to center the Font Awesome icons.
 
 
+### Day 11: April 1, 2021
+
+**Today's Progress**: Continued Introduction to Bootstrap section of the course. After going through the solution amended the Features section of the TinDog website.
+
+
+### Day 12: April 2, 2021
+
+**Today's Progress**: Started Intermediate Bootstrap section of the course. Learned about the Bootstrap Carousel function.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
