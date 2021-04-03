@@ -79,6 +79,13 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Today's Progress**: Started Intermediate Bootstrap section of the course. Learned about the Bootstrap Carousel function.
 
 
+### Day 13: April 3, 2021
+
+**Today's Progress**:  Continued Intermediate Bootstrap section of the course. Learned about the Bootstrap Cards.
+
+**Thoughts:** 
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
