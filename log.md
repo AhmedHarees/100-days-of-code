@@ -84,6 +84,13 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Today's Progress**:  Continued Intermediate Bootstrap section of the course. Learned about the Bootstrap Cards.
 
 
+### Day 14: April 4, 2021
+
+**Today's Progress**:  Continued Intermediate Bootstrap section of the course. Learned about CSS Z-Index and Stacking Order.
+
+**Thoughts:** Z-Index was a bit harder to grasp and even harder when implementing.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
