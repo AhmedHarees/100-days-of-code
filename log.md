@@ -91,6 +91,11 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Thoughts:** Z-Index was a bit harder to grasp and even harder when implementing.
 
 
+### Day 15: April 5, 2021
+
+**Today's Progress**:  Continued Intermediate Bootstrap section of the course. Learned about CSS Media Queries and completed Bootstrap Challenge 2.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
