@@ -96,6 +96,11 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Today's Progress**:  Continued Intermediate Bootstrap section of the course. Learned about CSS Media Queries and completed Bootstrap Challenge 2.
 
 
+### Day 16: April 6, 2021
+
+**Today's Progress**:  Continued Intermediate Bootstrap section of the course. Went through the solution for Bootstrap Challenge 2 and made some adjustments. Then refactored the code for the website.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
