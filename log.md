@@ -100,7 +100,21 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 
 **Today's Progress**:  Continued Intermediate Bootstrap section of the course. Went through the solution for Bootstrap Challenge 2 and made some adjustments. Then refactored the code for the website.
 
+### Day 17: April 7, 2021
 
+**Today's Progress**:  Completed Intermediate Bootstrap section of the course. Learned about combining selectors, selector priority, and completed the website.
+
+<!-- Skipped April 8th, 2021
+-->
+### Day 18: April 9, 2021
+
+**Today's Progress**:  Started Introduction to Javascript ES6 section of the course. Learned a little bit of history of JS and, alerts, data types, variables in JS.
+
+<!-- Skipped April 10th, 2021
+-->
+### Day 19: April 10, 2021
+
+**Today's Progress**:  Continued Introduction to Javascript ES6 section of the course. Learned about different methods for strings and arithmetic in JS.
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
