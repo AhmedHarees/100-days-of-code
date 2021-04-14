@@ -127,9 +127,12 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 
 ### Day 21: April 13, 2021
 
-**Today's Progress**:  Completed Introduction to Javascript ES6 section of the course. Learnt about JS functions and completed relevant challenges.
+**Today's Progress**:  Started Intermediate Javascript section of the course. Learnt about Math.random, Math.floor functions and comparators and equality in JS.
 
-**Thoughts:** Introduction section of JS was really easy as I previously learnt Python and Java.
+
+### Day 22: April 14, 2021
+
+**Today's Progress**:  Continuing Introduction to Javascript section of the course. Learnt about conditionals and arrays in JS.
 
 
 <!--
