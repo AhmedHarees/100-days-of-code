@@ -122,7 +122,7 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 
 ### Day 20: April 12, 2021
 
-**Today's Progress**:  Continued Introduction to Javascript ES6 section of the course. Learnt about JS functions and completed relevant challenges.
+**Today's Progress**:  Completed Introduction to Javascript ES6 section of the course. Learnt about JS functions and completed relevant challenges.
 
 
 ### Day 21: April 13, 2021
@@ -132,7 +132,12 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 
 ### Day 22: April 14, 2021
 
-**Today's Progress**:  Continuing Introduction to Javascript section of the course. Learnt about conditionals and arrays in JS.
+**Today's Progress**:  Continuing Intermediate Javascript section of the course. Learnt about conditionals and arrays in JS.
+
+
+### Day 23: April 15, 2021
+
+**Today's Progress**:  Completed Intermediate Javascript section of the course. Learnt about for loops and while loops, and completed coding exercises.
 
 
 <!--
