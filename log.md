@@ -144,6 +144,11 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Today's Progress**:  Started The Document Object Model (DOM) section of the course. Learnt how to add JS to websites and got an introduction to DOM.
 
 
+### Day 25: April 18, 2021
+
+**Today's Progress**:  Completed The Document Object Model (DOM) section of the course. Learnt how to select HTML elements, manipulate HTML styles, text, and attributes using JS. Also The Seperation of Concerns.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
