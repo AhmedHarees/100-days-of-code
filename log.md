@@ -154,6 +154,24 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Today's Progress**:  Started and completed Boss Level Challenge 1 - The Dicee Game section of the course. Applied the JS knowledge gained in previous sections to solve the challenge.
 
 
+### Day 27: April 20, 2021
+
+**Today's Progress**:  Started Advanced Javascript and DOM Manipulation section of the course. Learnt how to add event listeners and about high order functions and passing functions as arguments.
+
+<!-- Skipped April 21, 2021-->
+
+### Day 28: April 22, 2021
+
+**Today's Progress**:  Continued Advanced Javascript and DOM Manipulation section of the course. Got a deeper understanding of JS objects. Also learnt switch statements, objects, their methods and dot notation in JS.
+
+
+### Day 29: April 23, 2021
+
+**Today's Progress**:  Continued Advanced Javascript and DOM Manipulation section of the course. Learnt how to add keyboard event listeners to check for key presses and fiddled around the code to understand callbacks and how to respond to events.
+
+**Thoughts**: Callback was a difficult concept to understand, however managed to get a fairly good grasp on it after playing around with the code and using the debugger to go through it.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
