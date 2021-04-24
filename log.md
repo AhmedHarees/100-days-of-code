@@ -172,6 +172,11 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Thoughts**: Callback was a difficult concept to understand, however managed to get a fairly good grasp on it after playing around with the code and using the debugger to go through it.
 
 
+### Day 30: April 24, 2021
+
+**Today's Progress**:  Completed Advanced Javascript and DOM Manipulation section of the course. Completed the Drum Kit website.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
