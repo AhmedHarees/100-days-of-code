@@ -176,6 +176,9 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 
 **Today's Progress**:  Completed Advanced Javascript and DOM Manipulation section of the course. Completed the Drum Kit website.
 
+### Day 31: April 26, 2021
+
+**Today's Progress**:  Started jQuery section of the course. Introduction to JS, learned how to incorporate jQuery in to websites and how minification works for reduce file size. Learned select elements, manipulate styles, text attributes, and event listeners with jQuery.
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
