@@ -187,6 +187,12 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Today's Progress**:  Completed jQuery section of the course and started Boss Level Challenge 2 - Simon Game. Learned how to add and remove elements using jQuery.  Also learned how to apply animations to the website using jQuery.
 
 
+### Day 33: April 27, 2021
+
+**Today's Progress**:  Continued building Simon Game. Applied flash and sound to randomly selected buttons. Learned that chrome does not allow auto play of audio.
+
+**Thoughts**:  Struggled to store id of clicked button to a variable in handler function. Variables defined in handler functions seems to only exist within the handler function.
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
