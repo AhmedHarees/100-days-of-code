@@ -193,6 +193,12 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 
 **Thoughts**:  Struggled to store id of clicked button to a variable in handler function. Variables defined in handler functions seems to only exist within the handler function.
 
+
+### Day 34: April 28, 2021
+
+**Today's Progress**:  Continued building Simon Game. Stored id of clicked button in an array to resolve the issue. Arrays in JS are mutable. Added sound and animation to user clicks.
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
