@@ -199,9 +199,15 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 **Today's Progress**:  Continued building Simon Game. Stored id of clicked button in an array to resolve the issue. Arrays in JS are mutable. Added sound and animation to user clicks.
 
 
-### Day 34: April 29, 2021
+### Day 35: April 29, 2021
 
 **Today's Progress**:  Continued building Simon Game. Refactored the code as the game was having issues after adding a few more functions.
+
+<!-- Skipped April 30, 2021-->
+
+### Day 36: May 1, 2021
+
+**Today's Progress**:  Continued building Simon Game. Created checkAnswer() function for the game and debugged for it to work.
 
 
 <!--
