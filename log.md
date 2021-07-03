@@ -209,6 +209,12 @@ The 3rd attempt at 100 Days of Code. Coding even an hour a day being a full time
 
 **Today's Progress**:  Continued building Simon Game. Created checkAnswer() function for the game and debugged for it to work.
 
+<!-- Skipped May 2, 2021 to July 1, 2021 due to university assignments and exam -->
+
+### Day 37: July 3, 2021
+
+**Today's Progress**:  Completed building Simon Game. Debugged and ensured all functions are working properly.
+
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
